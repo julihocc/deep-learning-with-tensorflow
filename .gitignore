@@ -130,3 +130,8 @@ checkpoints/
 *.h5
 *.ckpt
 .idx/dev.nix
+
+*.code-workspace
+*.jpg
+*.jpeg
+*.png
