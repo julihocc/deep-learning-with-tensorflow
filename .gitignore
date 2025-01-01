@@ -132,6 +132,8 @@ checkpoints/
 .idx/dev.nix
 
 *.code-workspace
+.vscode 
+
 *.jpg
 *.jpeg
 *.png
