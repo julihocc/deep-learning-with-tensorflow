@@ -137,3 +137,5 @@ checkpoints/
 *.jpg
 *.jpeg
 *.png
+
+*.npy
