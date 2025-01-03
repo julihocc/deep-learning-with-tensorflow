@@ -139,3 +139,4 @@ checkpoints/
 *.png
 
 *.npy
+*.csv
