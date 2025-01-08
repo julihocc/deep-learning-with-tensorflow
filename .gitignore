@@ -141,3 +141,4 @@ checkpoints/
 *.npy
 *.csv
 *.txt
+*.keras
